@@ -23,14 +23,6 @@ This is an app from which you can order food, fruits, vegetables etc using SQL D
     - Add to cart functionality
     - Like Food functionality
     - Use SQL Database & Getx
-    
-## 📲 Screenshots
-
-<img align="left" src="https://user-images.githubusercontent.com/121867931/231127926-3a397f7d-ef31-4040-bdb4-1e824feaccb0.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121867931/231127946-ad9ea257-78e7-410d-83ba-cd4aafbf8707.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121867931/231128108-26bdbe13-a7a7-46c7-b465-86f2520cd1eb.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121867931/231128125-23570a6e-26d4-442f-8a1a-b9793c97ec33.jpg" width="220px">
-<img src="https://user-images.githubusercontent.com/121867931/231128133-50d827d0-f129-4df0-a5cb-51278380f4a8.jpg" width="220px">
 
 
 <br><br>
